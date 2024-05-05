@@ -1,0 +1,9 @@
+.git
+infra/Dockerfile
+infra/docker-compose.yml
+infra/init_user_table.sql
+run_tests*
+.github*
+.gitignore
+README.md
+integration-tests*
